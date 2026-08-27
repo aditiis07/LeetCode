@@ -12,7 +12,7 @@
 
 This repository contains my solutions to **LeetCode problems**, primarily implemented in **Java**.
 
-I'm using this repository to:
+I'm using this repository to: 
 
 * 🧠 Strengthen my problem-solving skills
 * 📚 Improve my understanding of DSA
